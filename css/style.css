@@ -1,0 +1,16 @@
+.img-thumbnail {
+    width: 100px;
+  height: 50px;
+  border: none;
+}
+.form-control {
+    background-color: rgb(238, 237, 237);
+    margin-left: 300px  !important;
+    margin-right:0px;
+    width: 650px;
+    border-radius: 8px;
+    outline: none !important;
+}
+.d-flex:focus {
+    background-color: rgb(238, 237, 237) !important;
+}
